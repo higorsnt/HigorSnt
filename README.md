@@ -5,19 +5,19 @@
   <img src="https://media.giphy.com/media/iem5cAM0lxAzMs5E21/giphy.gif" width="60px">
  </h1>
   <a target="_blank" href="https://www.linkedin.com/in/higor-santos/">
-    <img alt="Linkdein" width="22px" src=".github/linkedin.svg" />
+    <img alt="Linkdein" width="22px" src="linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/higorsnt/">
-    <img alt="Instagram" width="22px" src=".github/instagram.svg" />
+    <img alt="Instagram" width="22px" src="instagram.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:higor.dantas@ccc.ufcg.edu.br">
-    <img alt="Email Institucional" width="22px" src=".github/gmail.svg" />
+    <img alt="Email Institucional" width="22px" src="gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://fb.com/higor.santos.142">
-    <img alt="Facebook" width="22px" src=".github/facebook.svg" />
+    <img alt="Facebook" width="22px" src="facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/higorsbd">
-    <img alt="Twitter" width="22px" src=".github/twitter.svg" />
+    <img alt="Twitter" width="22px" src="twitter.svg" />
   </a>
 </div>
 
