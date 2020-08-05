@@ -1,23 +1,23 @@
-<img align="right" alt="Um gif para animar" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" height="180px">
+<img align="right" alt="Um gif para animar" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" height="150px">
 <div align="center">
  <h1>
   Olá! Eu sou Higor!
   <img alt="Olá!" src="https://media.giphy.com/media/iem5cAM0lxAzMs5E21/giphy.gif" width="45px">
   <br />
   <a target="_blank" href="https://www.linkedin.com/in/higor-santos/">
-    <img alt="Linkdein" width="22px" src="linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/16357f4ea2fb3cb760e94ae1c8fb5f95d9a29858/facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/higorsnt/">
-    <img alt="Instagram" width="22px" src="instagram.svg" />
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/16357f4ea2fb3cb760e94ae1c8fb5f95d9a29858/instagram.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:higor.dantas@ccc.ufcg.edu.br">
-    <img alt="Email Institucional" width="22px" src="gmail.svg" />
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/16357f4ea2fb3cb760e94ae1c8fb5f95d9a29858/gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://fb.com/higor.santos.142">
-    <img alt="Facebook" width="22px" src="facebook.svg" />
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/16357f4ea2fb3cb760e94ae1c8fb5f95d9a29858/facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/higorsbd">
-    <img alt="Twitter" width="22px" src="twitter.svg" />
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/16357f4ea2fb3cb760e94ae1c8fb5f95d9a29858/twitter.svg" />
   </a>
  </h1>
 </div>
