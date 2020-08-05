@@ -21,8 +21,6 @@
   </a>
  </h1>
 </div>
-
---------
   
 
 👨🏻‍🎓 Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/)  
