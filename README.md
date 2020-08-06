@@ -50,5 +50,6 @@
 **🕵🏼‍♂️ Estatísticas do meu perfil**  
 
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=higorsnt&show_icons=true&theme=dark" width="400px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&theme=dark" width="400px" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=higorsnt&show_icons=true&theme=dark" width="400px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&theme=dark" width="400px" height="200px" />
