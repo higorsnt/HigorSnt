@@ -1,55 +1,47 @@
+#  👨🏼‍💻 Higor Santos
+_Desenvolvedor fullstack_
+
+## Sobre mim
+
+🎓 Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/)  
+⏳ Graduando em Ciência da Computação pela [UFCG](https://portal.ufcg.edu.br/)  
+💼 Trabalhando na [Objective](https://www.objective.com.br/) como desenvolvedor Java
+
+<br/>
 <div align="center">
- <h1>
-  🦡 Olá! Eu sou Higor!
-  <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
-  <br />
-  <a  target="_blank" href="https://www.linkedin.com/in/higor-santos/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/higorsnt/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:higor.dantas@ccc.ufcg.edu.br">
-    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://fb.com/higor.santos.142">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/higorsbd">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/twitter.svg" />
+  <a href="https://github.com/HigorSnt">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=higorsnt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    />
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&langs_count=7&theme=dark"
+    />
   </a>
- </h1>
-</div>
-  
-<img align="right" alt="Um gif para animar" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" height="140px">
-
-🎂 23 anos  
-👨🏻‍🎓 Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/)  
-⏳ Cursando Ciência da Computação na [UFCG](https://portal.ufcg.edu.br/)  
-🍿 Viciado em séries  
-👨🏼‍💻 Sempre aprendendo alguma ferramenta nova  
-
--------
-**🦉 Linguagens já utilizadas**  
-
-<br />
-<div align="center">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 </div>
 
---------------------------
-**🕵🏼‍♂️ Estatísticas do meu perfil**  
+## Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=higorsnt&show_icons=true&theme=dark" width="400px" height="200px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&theme=dark" width="400px" height="200px" />
+## 📍 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-santos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higorsantos@ccc.ufcg.edu.br)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/583818294306275328)
