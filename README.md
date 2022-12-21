@@ -4,8 +4,7 @@ _Desenvolvedor fullstack_
 ## Sobre mim
 
 🎓 Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/)  
-⏳ Graduando em Ciência da Computação pela [UFCG](https://portal.ufcg.edu.br/)  
-💼 Trabalhando na [Objective](https://www.objective.com.br/) como desenvolvedor Java
+⏳ Graduado em Ciência da Computação pela [UFCG](https://portal.ufcg.edu.br/)  
 
 <br/>
 <div align="center">
@@ -45,3 +44,6 @@ _Desenvolvedor fullstack_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higorsantos@ccc.ufcg.edu.br)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/583818294306275328)
+
+
+![Snake animation](https://github.com/HigorSnt/HigorSnt/blob/output/github-contribution-grid-snake.svg)
