@@ -4,7 +4,7 @@ _Desenvolvedor fullstack_
 ## Sobre mim
 
 🎓 Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/)  
-⏳ Graduado em Ciência da Computação pela [UFCG](https://portal.ufcg.edu.br/)  
+🎓 Bacharel em Ciência da Computação pela [UFCG](https://portal.ufcg.edu.br/)  
 
 <br/>
 <div align="center">
